@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Right FO frontal operculum td": 1,
+        "Left Hippocampus cbf": 2,
+        "CSF cbf": 3,
+        "Right SMC supplementary motor cortex cbf": 4,
+        "Left GRe gyrus rectus cbf": 5,
+        "Right AOrG anterior orbital gyrus cbf": 6,
+        "Right AIns anterior insula td": 7,
+        "Right PIns posterior insula td": 8,
+        "Right CO central operculum td": 9,
+        "Left Accumbens Area td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Right FO frontal operculum td": 1,
+        "Left Hippocampus cbf": 2,
+        "CSF cbf": 3,
+        "Right SMC supplementary motor cortex cbf": 4,
+        "Left GRe gyrus rectus cbf": 5,
+        "Right AOrG anterior orbital gyrus cbf": 6,
+        "Right PIns posterior insula td": 7,
+        "Right AIns anterior insula td": 8,
+        "Right CO central operculum td": 9,
+        "Left Accumbens Area td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

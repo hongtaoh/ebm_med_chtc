@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Left CO central operculum cbf": 1,
+        "Right AIns anterior insula cbf": 2,
+        "Left ACgG anterior cingulate gyrus cbf": 3,
+        "Right ACgG anterior cingulate gyrus cbf": 4,
+        "Left Accumbens Area cbf": 5,
+        "Right Inf Lat Vent td": 6,
+        "Left Cerebellum White Matter td": 7,
+        "Right Cerebellum White Matter td": 8,
+        "Right PHG parahippocampal gyrus td": 9,
+        "Right Thalamus Proper td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Right AIns anterior insula cbf": 1,
+        "Left CO central operculum cbf": 2,
+        "Right ACgG anterior cingulate gyrus cbf": 3,
+        "Left Accumbens Area cbf": 4,
+        "Left ACgG anterior cingulate gyrus cbf": 5,
+        "Right Inf Lat Vent td": 6,
+        "Right Cerebellum White Matter td": 7,
+        "Left Cerebellum White Matter td": 8,
+        "Right Thalamus Proper td": 9,
+        "Right PHG parahippocampal gyrus td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

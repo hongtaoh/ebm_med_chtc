@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Right SCA subcallosal area td": 1,
+        "Cerebellar Vermal Lobules I-V td": 2,
+        "Right MSFG superior frontal gyrus medial segment cbf": 3,
+        "Right ACgG anterior cingulate gyrus cbf": 4,
+        "Left SOG superior occipital gyrus cbf": 5,
+        "Right Inf Lat Vent td": 6,
+        "Right Basal Forebrain cbf": 7,
+        "Right MOrG medial orbital gyrus cbf": 8,
+        "Left SCA subcallosal area td": 9,
+        "Left Cerebellum Exterior td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Right SCA subcallosal area td": 1,
+        "Left SOG superior occipital gyrus cbf": 2,
+        "Right MSFG superior frontal gyrus medial segment cbf": 3,
+        "Right ACgG anterior cingulate gyrus cbf": 4,
+        "Right MOrG medial orbital gyrus cbf": 5,
+        "Right Basal Forebrain cbf": 6,
+        "Right Inf Lat Vent td": 7,
+        "Left SCA subcallosal area td": 8,
+        "Cerebellar Vermal Lobules I-V td": 9,
+        "Left Cerebellum Exterior td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

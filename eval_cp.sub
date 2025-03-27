@@ -1,0 +1,23 @@
+Executable = eval_cp.sh
+Arguments = $(j) $(r)
+
+Initialdir = /home/hhao9/run_ebm_med
+
+# Transfer necessary files to the compute node
+transfer_input_files = eval_cp.py, data.tar.gz, combinations.txt, venv.tar.gz
+should_transfer_files = YES
+when_to_transfer_output = ON_EXIT
+transfer_output_files = conjugate_priors
+
+Log = conjugate_priors/logs/eval_j$(j)_r$(r).log
+Error = conjugate_priors/logs/eval_j$(j)_r$(r).err
+Output = conjugate_priors/logs/eval_j$(j)_r$(r).out
+
+request_cpus = 2
+request_memory = 2GB 
+request_disk = 8GB
+
++TransferAttempts = 5
+
+queue j, r from combinations.txt
+

@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Right OrIFG orbital part of the inferior frontal gyrus cbf": 1,
+        "Left OrIFG orbital part of the inferior frontal gyrus cbf": 2,
+        "Right AOrG anterior orbital gyrus cbf": 3,
+        "Left PCgG posterior cingulate gyrus cbf": 4,
+        "Right PCu precuneus cbf": 5,
+        "Left MSFG superior frontal gyrus medial segment td": 6,
+        "Left Caudate td": 7,
+        "Left ACgG anterior cingulate gyrus td": 8,
+        "Left Inf Lat Vent td": 9,
+        "Left Ventral DC td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Right OrIFG orbital part of the inferior frontal gyrus cbf": 1,
+        "Left OrIFG orbital part of the inferior frontal gyrus cbf": 2,
+        "Right PCu precuneus cbf": 3,
+        "Left PCgG posterior cingulate gyrus cbf": 4,
+        "Right AOrG anterior orbital gyrus cbf": 5,
+        "Left MSFG superior frontal gyrus medial segment td": 6,
+        "Left Caudate td": 7,
+        "Left ACgG anterior cingulate gyrus td": 8,
+        "Left Inf Lat Vent td": 9,
+        "Left Ventral DC td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

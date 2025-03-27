@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Optic Chiasm cbf": 1,
+        "Left PIns posterior insula cbf": 2,
+        "Left LOrG lateral orbital gyrus cbf": 3,
+        "Cerebellar Vermal Lobules I-V cbf": 4,
+        "Right PCu precuneus cbf": 5,
+        "Cerebellar Vermal Lobules I-V td": 6,
+        "Left MFC medial frontal cortex td": 7,
+        "Right FuG fusiform gyrus td": 8,
+        "Left Cun cuneus td": 9,
+        "Right Thalamus Proper td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Optic Chiasm cbf": 1,
+        "Left PIns posterior insula cbf": 2,
+        "Left LOrG lateral orbital gyrus cbf": 3,
+        "Right Thalamus Proper td": 4,
+        "Cerebellar Vermal Lobules I-V cbf": 5,
+        "Right PCu precuneus cbf": 6,
+        "Cerebellar Vermal Lobules I-V td": 7,
+        "Left MFC medial frontal cortex td": 8,
+        "Right FuG fusiform gyrus td": 9,
+        "Left Cun cuneus td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

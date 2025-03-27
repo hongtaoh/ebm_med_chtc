@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Left PrG precentral gyrus cbf": 1,
+        "Left SPL superior parietal lobule cbf": 2,
+        "Left STG superior temporal gyrus cbf": 3,
+        "Right SOG superior occipital gyrus cbf": 4,
+        "Right Cerebellum Exterior cbf": 5,
+        "Cerebellar Vermal Lobules VI-VII td": 6,
+        "Right MPoG postcentral gyrus medial segment td": 7,
+        "Left MSFG superior frontal gyrus medial segment td": 8,
+        "Right Basal Forebrain td": 9,
+        "Left Ventral DC td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Left SPL superior parietal lobule cbf": 1,
+        "Left PrG precentral gyrus cbf": 2,
+        "Left STG superior temporal gyrus cbf": 3,
+        "Right Cerebellum Exterior cbf": 4,
+        "Right SOG superior occipital gyrus cbf": 5,
+        "Right Basal Forebrain td": 6,
+        "Cerebellar Vermal Lobules VI-VII td": 7,
+        "Right MPoG postcentral gyrus medial segment td": 8,
+        "Left MSFG superior frontal gyrus medial segment td": 9,
+        "Left Ventral DC td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

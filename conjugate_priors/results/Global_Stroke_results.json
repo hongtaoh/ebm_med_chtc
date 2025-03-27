@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Left GRe gyrus rectus cbf": 1,
+        "Right Accumbens Area cbf": 2,
+        "Right Inf Lat Vent td": 3,
+        "Left Accumbens Area td": 4,
+        "Right SCA subcallosal area td": 5,
+        "Left IOG inferior occipital gyrus td": 6,
+        "Right PHG parahippocampal gyrus td": 7,
+        "Left Amygdala cbf": 8,
+        "Right GRe gyrus rectus cbf": 9,
+        "Left Accumbens Area cbf": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Left GRe gyrus rectus cbf": 1,
+        "Right Accumbens Area cbf": 2,
+        "Left IOG inferior occipital gyrus td": 3,
+        "Right Inf Lat Vent td": 4,
+        "Left Accumbens Area td": 5,
+        "Right SCA subcallosal area td": 6,
+        "Right PHG parahippocampal gyrus td": 7,
+        "Left Amygdala cbf": 8,
+        "Left Accumbens Area cbf": 9,
+        "Right GRe gyrus rectus cbf": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

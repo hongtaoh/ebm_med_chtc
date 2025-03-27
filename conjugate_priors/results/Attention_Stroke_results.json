@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Right Amygdala cbf": 1,
+        "Right LOrG lateral orbital gyrus cbf": 2,
+        "Left FRP frontal pole cbf": 3,
+        "Right AOrG anterior orbital gyrus cbf": 4,
+        "Cerebellar Vermal Lobules VI-VII td": 5,
+        "Right PHG parahippocampal gyrus td": 6,
+        "Left MFC medial frontal cortex td": 7,
+        "Left Inf Lat Vent td": 8,
+        "Left PHG parahippocampal gyrus td": 9,
+        "Left FuG fusiform gyrus cbf": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Right Amygdala cbf": 1,
+        "Left FRP frontal pole cbf": 2,
+        "Right LOrG lateral orbital gyrus cbf": 3,
+        "Right AOrG anterior orbital gyrus cbf": 4,
+        "Right PHG parahippocampal gyrus td": 5,
+        "Cerebellar Vermal Lobules VI-VII td": 6,
+        "Left MFC medial frontal cortex td": 7,
+        "Left PHG parahippocampal gyrus td": 8,
+        "Left Inf Lat Vent td": 9,
+        "Left FuG fusiform gyrus cbf": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

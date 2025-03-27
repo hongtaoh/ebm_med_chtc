@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: conjugate_priors/heatmaps/Memory_All_heatmap.png
+WARNING:root:File does not exist, skipping removal: conjugate_priors/traceplots/Memory_All_traceplot.png
+WARNING:root:File does not exist, skipping removal: conjugate_priors/results/Memory_All_results.json
+WARNING:root:File does not exist, skipping removal: conjugate_priors/logs/Memory_All.log
+2025-03-26 21:12:55,314 - INFO - Running conjugate priors for file: Memory_All
+2025-03-26 21:12:55,319 - INFO - Number of biomarkers: 10
+2025-03-26 21:14:06,861 - INFO - Iteration 2000/20000, Acceptance Ratio: 21.10%, Log Likelihood: -5129.2638, Current Accepted Order: dict_values([np.int64(5), np.int64(3), np.int64(1), np.int64(2), np.int64(4), np.int64(8), np.int64(10), np.int64(9), np.int64(6), np.int64(7)]), 
+2025-03-26 21:15:10,991 - INFO - Iteration 4000/20000, Acceptance Ratio: 20.77%, Log Likelihood: -5132.4622, Current Accepted Order: dict_values([np.int64(1), np.int64(4), np.int64(2), np.int64(3), np.int64(5), np.int64(8), np.int64(9), np.int64(10), np.int64(6), np.int64(7)]), 
+2025-03-26 21:16:20,085 - INFO - Iteration 6000/20000, Acceptance Ratio: 21.03%, Log Likelihood: -5134.7639, Current Accepted Order: dict_values([np.int64(4), np.int64(3), np.int64(2), np.int64(1), np.int64(5), np.int64(10), np.int64(8), np.int64(7), np.int64(6), np.int64(9)]), 
+2025-03-26 21:17:28,918 - INFO - Iteration 8000/20000, Acceptance Ratio: 21.71%, Log Likelihood: -5129.1199, Current Accepted Order: dict_values([np.int64(5), np.int64(1), np.int64(4), np.int64(2), np.int64(3), np.int64(9), np.int64(10), np.int64(8), np.int64(6), np.int64(7)]), 
+2025-03-26 21:18:41,212 - INFO - Iteration 10000/20000, Acceptance Ratio: 21.74%, Log Likelihood: -5129.2537, Current Accepted Order: dict_values([np.int64(5), np.int64(4), np.int64(2), np.int64(1), np.int64(3), np.int64(8), np.int64(10), np.int64(9), np.int64(6), np.int64(7)]), 
+2025-03-26 21:19:45,595 - INFO - Iteration 12000/20000, Acceptance Ratio: 21.76%, Log Likelihood: -5129.1907, Current Accepted Order: dict_values([np.int64(5), np.int64(1), np.int64(2), np.int64(3), np.int64(4), np.int64(9), np.int64(10), np.int64(8), np.int64(6), np.int64(7)]), 
+2025-03-26 21:20:51,331 - INFO - Iteration 14000/20000, Acceptance Ratio: 21.86%, Log Likelihood: -5132.1167, Current Accepted Order: dict_values([np.int64(1), np.int64(5), np.int64(4), np.int64(2), np.int64(3), np.int64(9), np.int64(10), np.int64(8), np.int64(6), np.int64(7)]), 
+2025-03-26 21:21:57,639 - INFO - Iteration 16000/20000, Acceptance Ratio: 21.73%, Log Likelihood: -5130.5093, Current Accepted Order: dict_values([np.int64(4), np.int64(3), np.int64(5), np.int64(2), np.int64(1), np.int64(10), np.int64(9), np.int64(8), np.int64(6), np.int64(7)]), 
+2025-03-26 21:23:20,140 - INFO - Iteration 18000/20000, Acceptance Ratio: 21.59%, Log Likelihood: -5129.6825, Current Accepted Order: dict_values([np.int64(5), np.int64(4), np.int64(2), np.int64(3), np.int64(1), np.int64(8), np.int64(9), np.int64(10), np.int64(6), np.int64(7)]), 
+2025-03-26 21:24:26,652 - INFO - Iteration 20000/20000, Acceptance Ratio: 21.75%, Log Likelihood: -5129.1728, Current Accepted Order: dict_values([np.int64(5), np.int64(3), np.int64(2), np.int64(4), np.int64(1), np.int64(9), np.int64(10), np.int64(8), np.int64(6), np.int64(7)]), 
+2025-03-26 21:24:28,281 - INFO - Results saved to conjugate_priors/results/Memory_All_results.json

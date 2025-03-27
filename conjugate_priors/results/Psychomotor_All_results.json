@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Left Inf Lat Vent cbf": 1,
+        "Right LiG lingual gyrus cbf": 2,
+        "Right Cun cuneus cbf": 3,
+        "Right SMC supplementary motor cortex td": 4,
+        "Left Hippocampus td": 5,
+        "Left Pallidum td": 6,
+        "Cerebellar Vermal Lobules I-V td": 7,
+        "Left AnG angular gyrus td": 8,
+        "Right MFC medial frontal cortex cbf": 9,
+        "Right OFuG occipital fusiform gyrus cbf": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Left Inf Lat Vent cbf": 1,
+        "Right LiG lingual gyrus cbf": 2,
+        "Right Cun cuneus cbf": 3,
+        "Right SMC supplementary motor cortex td": 4,
+        "Left Hippocampus td": 5,
+        "Left Pallidum td": 6,
+        "Cerebellar Vermal Lobules I-V td": 7,
+        "Left AnG angular gyrus td": 8,
+        "Right OFuG occipital fusiform gyrus cbf": 9,
+        "Right MFC medial frontal cortex cbf": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

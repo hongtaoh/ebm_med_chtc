@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: conjugate_priors/heatmaps/Psychomotor_All_heatmap.png
+WARNING:root:File does not exist, skipping removal: conjugate_priors/traceplots/Psychomotor_All_traceplot.png
+WARNING:root:File does not exist, skipping removal: conjugate_priors/results/Psychomotor_All_results.json
+WARNING:root:File does not exist, skipping removal: conjugate_priors/logs/Psychomotor_All.log
+2025-03-26 21:13:04,646 - INFO - Running conjugate priors for file: Psychomotor_All
+2025-03-26 21:13:04,650 - INFO - Number of biomarkers: 10
+2025-03-26 21:14:12,375 - INFO - Iteration 2000/20000, Acceptance Ratio: 21.35%, Log Likelihood: -5246.1440, Current Accepted Order: dict_values([np.int64(10), np.int64(9), np.int64(2), np.int64(3), np.int64(8), np.int64(7), np.int64(4), np.int64(1), np.int64(6), np.int64(5)]), 
+2025-03-26 21:15:11,195 - INFO - Iteration 4000/20000, Acceptance Ratio: 18.68%, Log Likelihood: -5246.2807, Current Accepted Order: dict_values([np.int64(8), np.int64(10), np.int64(3), np.int64(2), np.int64(9), np.int64(7), np.int64(1), np.int64(4), np.int64(6), np.int64(5)]), 
+2025-03-26 21:16:11,532 - INFO - Iteration 6000/20000, Acceptance Ratio: 17.85%, Log Likelihood: -5248.6726, Current Accepted Order: dict_values([np.int64(8), np.int64(9), np.int64(2), np.int64(1), np.int64(10), np.int64(6), np.int64(3), np.int64(7), np.int64(5), np.int64(4)]), 
+2025-03-26 21:17:14,342 - INFO - Iteration 8000/20000, Acceptance Ratio: 17.73%, Log Likelihood: -5252.2378, Current Accepted Order: dict_values([np.int64(8), np.int64(9), np.int64(2), np.int64(3), np.int64(7), np.int64(6), np.int64(1), np.int64(10), np.int64(4), np.int64(5)]), 
+2025-03-26 21:18:12,956 - INFO - Iteration 10000/20000, Acceptance Ratio: 17.50%, Log Likelihood: -5246.7668, Current Accepted Order: dict_values([np.int64(10), np.int64(9), np.int64(3), np.int64(2), np.int64(8), np.int64(7), np.int64(4), np.int64(1), np.int64(6), np.int64(5)]), 
+2025-03-26 21:19:15,712 - INFO - Iteration 12000/20000, Acceptance Ratio: 17.07%, Log Likelihood: -5230.8197, Current Accepted Order: dict_values([np.int64(9), np.int64(10), np.int64(2), np.int64(3), np.int64(1), np.int64(7), np.int64(5), np.int64(8), np.int64(6), np.int64(4)]), 
+2025-03-26 21:20:14,588 - INFO - Iteration 14000/20000, Acceptance Ratio: 16.44%, Log Likelihood: -5230.4986, Current Accepted Order: dict_values([np.int64(9), np.int64(10), np.int64(2), np.int64(3), np.int64(1), np.int64(8), np.int64(5), np.int64(7), np.int64(6), np.int64(4)]), 
+2025-03-26 21:21:20,063 - INFO - Iteration 16000/20000, Acceptance Ratio: 16.28%, Log Likelihood: -5229.4729, Current Accepted Order: dict_values([np.int64(10), np.int64(9), np.int64(3), np.int64(2), np.int64(1), np.int64(7), np.int64(4), np.int64(8), np.int64(6), np.int64(5)]), 
+2025-03-26 21:22:27,720 - INFO - Iteration 18000/20000, Acceptance Ratio: 15.79%, Log Likelihood: -5233.1956, Current Accepted Order: dict_values([np.int64(10), np.int64(9), np.int64(1), np.int64(3), np.int64(2), np.int64(8), np.int64(5), np.int64(7), np.int64(6), np.int64(4)]), 
+2025-03-26 21:23:21,125 - INFO - Iteration 20000/20000, Acceptance Ratio: 15.60%, Log Likelihood: -5230.7829, Current Accepted Order: dict_values([np.int64(9), np.int64(10), np.int64(2), np.int64(3), np.int64(1), np.int64(8), np.int64(6), np.int64(5), np.int64(7), np.int64(4)]), 
+2025-03-26 21:23:22,671 - INFO - Results saved to conjugate_priors/results/Psychomotor_All_results.json

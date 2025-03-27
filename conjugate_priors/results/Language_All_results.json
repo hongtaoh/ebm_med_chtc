@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Right TrIFG triangular part of the inferior frontal gyrus cbf": 1,
+        "Left ACgG anterior cingulate gyrus td": 2,
+        "Right PT planum temporale cbf": 3,
+        "Right OpIFG opercular part of the inferior frontal gyrus cbf": 4,
+        "Left Cerebellum Exterior cbf": 5,
+        "Right AIns anterior insula cbf": 6,
+        "Right Accumbens Area td": 7,
+        "Left AOrG anterior orbital gyrus td": 8,
+        "Brain Stem td": 9,
+        "Left Putamen td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Right OpIFG opercular part of the inferior frontal gyrus cbf": 1,
+        "Right TrIFG triangular part of the inferior frontal gyrus cbf": 2,
+        "Left AOrG anterior orbital gyrus td": 3,
+        "Right PT planum temporale cbf": 4,
+        "Right AIns anterior insula cbf": 5,
+        "Right Accumbens Area td": 6,
+        "Left Cerebellum Exterior cbf": 7,
+        "Left Putamen td": 8,
+        "Brain Stem td": 9,
+        "Left ACgG anterior cingulate gyrus td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

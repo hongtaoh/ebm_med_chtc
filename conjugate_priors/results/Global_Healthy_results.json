@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Left Basal Forebrain td": 1,
+        "Left FRP frontal pole td": 2,
+        "Right Accumbens Area td": 3,
+        "Left OFuG occipital fusiform gyrus td": 4,
+        "Left Cun cuneus td": 5,
+        "CSF cbf": 6,
+        "Left Cerebral White Matter cbf": 7,
+        "Right Putamen cbf": 8,
+        "Left Hippocampus cbf": 9,
+        "Left PCu precuneus cbf": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Left Basal Forebrain td": 1,
+        "Left FRP frontal pole td": 2,
+        "Right Accumbens Area td": 3,
+        "Left OFuG occipital fusiform gyrus td": 4,
+        "Left Cun cuneus td": 5,
+        "Left Cerebral White Matter cbf": 6,
+        "Right Putamen cbf": 7,
+        "Left Hippocampus cbf": 8,
+        "CSF cbf": 9,
+        "Left PCu precuneus cbf": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

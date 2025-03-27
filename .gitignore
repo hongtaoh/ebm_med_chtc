@@ -1,0 +1,8 @@
+# Ignore everything in the data folder
+data/*
+
+data.tar.gz 
+
+venv/*
+
+venv.tar.gz 

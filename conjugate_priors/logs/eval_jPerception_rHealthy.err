@@ -1,0 +1,17 @@
+WARNING:root:File does not exist, skipping removal: conjugate_priors/heatmaps/Perception_Healthy_heatmap.png
+WARNING:root:File does not exist, skipping removal: conjugate_priors/traceplots/Perception_Healthy_traceplot.png
+WARNING:root:File does not exist, skipping removal: conjugate_priors/results/Perception_Healthy_results.json
+WARNING:root:File does not exist, skipping removal: conjugate_priors/logs/Perception_Healthy.log
+2025-03-26 21:12:58,363 - INFO - Running conjugate priors for file: Perception_Healthy
+2025-03-26 21:12:58,376 - INFO - Number of biomarkers: 10
+2025-03-26 21:14:11,295 - INFO - Iteration 2000/20000, Acceptance Ratio: 29.00%, Log Likelihood: -5326.3999, Current Accepted Order: dict_values([np.int64(3), np.int64(4), np.int64(6), np.int64(8), np.int64(2), np.int64(1), np.int64(10), np.int64(5), np.int64(9), np.int64(7)]), 
+2025-03-26 21:15:19,509 - INFO - Iteration 4000/20000, Acceptance Ratio: 27.50%, Log Likelihood: -5323.1161, Current Accepted Order: dict_values([np.int64(2), np.int64(3), np.int64(6), np.int64(5), np.int64(4), np.int64(1), np.int64(9), np.int64(8), np.int64(10), np.int64(7)]), 
+2025-03-26 21:16:20,826 - INFO - Iteration 6000/20000, Acceptance Ratio: 27.42%, Log Likelihood: -5326.3517, Current Accepted Order: dict_values([np.int64(4), np.int64(7), np.int64(6), np.int64(3), np.int64(5), np.int64(10), np.int64(9), np.int64(2), np.int64(8), np.int64(1)]), 
+2025-03-26 21:17:34,256 - INFO - Iteration 8000/20000, Acceptance Ratio: 27.56%, Log Likelihood: -5325.0037, Current Accepted Order: dict_values([np.int64(3), np.int64(5), np.int64(6), np.int64(4), np.int64(2), np.int64(1), np.int64(10), np.int64(9), np.int64(8), np.int64(7)]), 
+2025-03-26 21:18:38,449 - INFO - Iteration 10000/20000, Acceptance Ratio: 27.66%, Log Likelihood: -5324.2466, Current Accepted Order: dict_values([np.int64(4), np.int64(5), np.int64(8), np.int64(7), np.int64(3), np.int64(6), np.int64(10), np.int64(2), np.int64(9), np.int64(1)]), 
+2025-03-26 21:19:39,160 - INFO - Iteration 12000/20000, Acceptance Ratio: 28.02%, Log Likelihood: -5324.3627, Current Accepted Order: dict_values([np.int64(3), np.int64(6), np.int64(7), np.int64(5), np.int64(4), np.int64(1), np.int64(9), np.int64(8), np.int64(10), np.int64(2)]), 
+2025-03-26 21:20:42,968 - INFO - Iteration 14000/20000, Acceptance Ratio: 27.89%, Log Likelihood: -5325.9879, Current Accepted Order: dict_values([np.int64(6), np.int64(5), np.int64(7), np.int64(3), np.int64(4), np.int64(2), np.int64(9), np.int64(10), np.int64(8), np.int64(1)]), 
+2025-03-26 21:21:48,735 - INFO - Iteration 16000/20000, Acceptance Ratio: 27.83%, Log Likelihood: -5326.8875, Current Accepted Order: dict_values([np.int64(6), np.int64(3), np.int64(7), np.int64(2), np.int64(4), np.int64(1), np.int64(8), np.int64(5), np.int64(10), np.int64(9)]), 
+2025-03-26 21:22:52,988 - INFO - Iteration 18000/20000, Acceptance Ratio: 27.92%, Log Likelihood: -5324.4257, Current Accepted Order: dict_values([np.int64(5), np.int64(2), np.int64(6), np.int64(4), np.int64(3), np.int64(1), np.int64(8), np.int64(10), np.int64(9), np.int64(7)]), 
+2025-03-26 21:23:56,938 - INFO - Iteration 20000/20000, Acceptance Ratio: 27.79%, Log Likelihood: -5326.3406, Current Accepted Order: dict_values([np.int64(4), np.int64(3), np.int64(7), np.int64(5), np.int64(6), np.int64(1), np.int64(10), np.int64(2), np.int64(8), np.int64(9)]), 
+2025-03-26 21:23:59,473 - INFO - Results saved to conjugate_priors/results/Perception_Healthy_results.json

@@ -1,0 +1,35 @@
+{
+    "n_iter": 20000,
+    "n_shuffle": 2,
+    "burn_in": 10000,
+    "thinning": 20,
+    "most_likely_order": {
+        "Left SFG superior frontal gyrus td": 1,
+        "Left OpIFG opercular part of the inferior frontal gyrus cbf": 2,
+        "Right PP planum polare cbf": 3,
+        "Right Caudate cbf": 4,
+        "Right Amygdala cbf": 5,
+        "Right Amygdala td": 6,
+        "Right Basal Forebrain cbf": 7,
+        "Left Accumbens Area td": 8,
+        "Right MOG middle occipital gyrus td": 9,
+        "Right SOG superior occipital gyrus td": 10
+    },
+    "kendalls_tau": null,
+    "p_value": null,
+    "original_order": null,
+    "order_with_higest_ll": {
+        "Left Accumbens Area td": 1,
+        "Right Amygdala td": 2,
+        "Left OpIFG opercular part of the inferior frontal gyrus cbf": 3,
+        "Right PP planum polare cbf": 4,
+        "Right Caudate cbf": 5,
+        "Right Amygdala cbf": 6,
+        "Right Basal Forebrain cbf": 7,
+        "Left SFG superior frontal gyrus td": 8,
+        "Right SOG superior occipital gyrus td": 9,
+        "Right MOG middle occipital gyrus td": 10
+    },
+    "kendalls_tau2": null,
+    "p_value2": null
+}

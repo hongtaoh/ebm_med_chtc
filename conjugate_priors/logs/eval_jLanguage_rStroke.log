@@ -1,57 +1,57 @@
-000 (1457618.008.000) 2025-03-26 21:11:59 Job submitted from host: <128.105.68.112:9618?addrs=128.105.68.112-9618+[2607-f388-2200-100-eaeb-d3ff-fea3-4202]-9618&alias=ap2001.chtc.wisc.edu&noUDP&sock=schedd_1987781_0208>
+000 (1457621.008.000) 2025-03-26 22:49:05 Job submitted from host: <128.105.68.112:9618?addrs=128.105.68.112-9618+[2607-f388-2200-100-eaeb-d3ff-fea3-4202]-9618&alias=ap2001.chtc.wisc.edu&noUDP&sock=schedd_1987781_0208>
 ...
-040 (1457618.008.000) 2025-03-26 21:12:25 Started transferring input files
-	Transferring to host: <128.105.69.226:9618?addrs=128.105.69.226-9618+[2607-f388-2200-100-eaeb-d3ff-fe40-10fc]-9618&alias=e2609.chtc.wisc.edu&noUDP&sock=slot1_37_2085171_5a52_29246>
+040 (1457621.008.000) 2025-03-26 22:49:53 Started transferring input files
+	Transferring to host: <128.105.69.112:9618?addrs=128.105.69.112-9618+[2607-f388-2200-100-1270-fdff-fe56-c354]-9618&alias=e4061.chtc.wisc.edu&noUDP&sock=slot1_4_2780544_89a7_24640>
 ...
-040 (1457618.008.000) 2025-03-26 21:12:26 Finished transferring input files
+040 (1457621.008.000) 2025-03-26 22:49:54 Finished transferring input files
 ...
-001 (1457618.008.000) 2025-03-26 21:12:26 Job executing on host: <128.105.69.226:9618?addrs=128.105.69.226-9618+[2607-f388-2200-100-eaeb-d3ff-fe40-10fc]-9618&alias=e2609.chtc.wisc.edu&noUDP&sock=startd_23552_4aa0>
-	SlotName: slot1_37@e2609.chtc.wisc.edu
-	CondorScratchDir = "/var/lib/condor/execute/slot1/dir_2705630"
+001 (1457621.008.000) 2025-03-26 22:49:54 Job executing on host: <128.105.69.112:9618?addrs=128.105.69.112-9618+[2607-f388-2200-100-1270-fdff-fe56-c354]-9618&alias=e4061.chtc.wisc.edu&noUDP&sock=startd_20352_5b90>
+	SlotName: slot1_4@e4061.chtc.wisc.edu
+	CondorScratchDir = "/var/lib/condor/execute/slot1/dir_130517"
 	Cpus = 2
 	Disk = 8389761
 	GPUs = 0
 	IoHeavy = 0
 	Memory = 2048
 ...
-006 (1457618.008.000) 2025-03-26 21:12:39 Image size of job updated: 984
+006 (1457621.008.000) 2025-03-26 22:50:07 Image size of job updated: 980
 	1  -  MemoryUsage of job (MB)
-	984  -  ResidentSetSize of job (KB)
+	980  -  ResidentSetSize of job (KB)
 ...
-006 (1457618.008.000) 2025-03-26 21:17:39 Image size of job updated: 142564
+006 (1457621.008.000) 2025-03-26 22:55:07 Image size of job updated: 142444
 	140  -  MemoryUsage of job (MB)
-	142564  -  ResidentSetSize of job (KB)
+	142444  -  ResidentSetSize of job (KB)
 ...
-006 (1457618.008.000) 2025-03-26 21:22:40 Image size of job updated: 147400
+006 (1457621.008.000) 2025-03-26 23:00:08 Image size of job updated: 147288
 	144  -  MemoryUsage of job (MB)
-	147400  -  ResidentSetSize of job (KB)
+	147288  -  ResidentSetSize of job (KB)
 ...
-006 (1457618.008.000) 2025-03-26 21:23:24 Image size of job updated: 156100
+006 (1457621.008.000) 2025-03-26 23:01:17 Image size of job updated: 155312
 	144  -  MemoryUsage of job (MB)
-	147400  -  ResidentSetSize of job (KB)
+	147292  -  ResidentSetSize of job (KB)
 ...
-040 (1457618.008.000) 2025-03-26 21:23:24 Started transferring output files
+040 (1457621.008.000) 2025-03-26 23:01:17 Started transferring output files
 ...
-040 (1457618.008.000) 2025-03-26 21:23:24 Finished transferring output files
+040 (1457621.008.000) 2025-03-26 23:01:17 Finished transferring output files
 ...
-005 (1457618.008.000) 2025-03-26 21:23:24 Job terminated.
+005 (1457621.008.000) 2025-03-26 23:01:17 Job terminated.
 	(1) Normal termination (return value 0)
-		Usr 0 00:10:39, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:10:55, Sys 0 00:00:05  -  Run Remote Usage
 		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
-		Usr 0 00:10:39, Sys 0 00:00:03  -  Total Remote Usage
+		Usr 0 00:10:55, Sys 0 00:00:05  -  Total Remote Usage
 		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
-	458489  -  Run Bytes Sent By Job
-	180183426  -  Run Bytes Received By Job
-	458489  -  Total Bytes Sent By Job
-	180183426  -  Total Bytes Received By Job
+	445406  -  Run Bytes Sent By Job
+	180183186  -  Run Bytes Received By Job
+	445406  -  Total Bytes Sent By Job
+	180183186  -  Total Bytes Received By Job
 	Partitionable Resources :     Usage  Request Allocated 
 	   Cpus                 :      0.98        2         2 
-	   Disk (KB)            : 738432     8388608   8389761 
+	   Disk (KB)            : 738419     8388608   8389761 
 	   GPUs                 :                            0 
 	   IoHeavy              :                            0 
 	   Memory (MB)          :    144        2048      2048 
-	   TimeExecute (s)      :    658                       
-	   TimeSlotBusy (s)     :    659                       
+	   TimeExecute (s)      :    683                       
+	   TimeSlotBusy (s)     :    685                       
 
-	Job terminated of its own accord at 2025-03-27T02:23:24Z with exit-code 0.
+	Job terminated of its own accord at 2025-03-27T04:01:17Z with exit-code 0.
 ...

@@ -6,14 +6,14 @@
     "most_likely_order": {
         "Left Accumbens Area cbf": 1,
         "Right Cerebellum White Matter cbf": 2,
-        "Right OrIFG orbital part of the inferior frontal gyrus cbf": 3,
-        "CSF cbf": 4,
+        "CSF cbf": 3,
+        "Right OrIFG orbital part of the inferior frontal gyrus cbf": 4,
         "Right Calc calcarine cortex cbf": 5,
         "Left SFG superior frontal gyrus td": 6,
-        "Left Cerebellum White Matter td": 7,
-        "Left PIns posterior insula td": 8,
+        "Left PIns posterior insula td": 7,
+        "Left Putamen td": 8,
         "Right OFuG occipital fusiform gyrus td": 9,
-        "Left SMG supramarginal gyrus td": 10
+        "Right Cerebellum Exterior td": 10
     },
     "kendalls_tau": null,
     "p_value": null,
@@ -21,14 +21,14 @@
     "order_with_higest_ll": {
         "Left Accumbens Area cbf": 1,
         "Right Cerebellum White Matter cbf": 2,
-        "CSF cbf": 3,
-        "Right OrIFG orbital part of the inferior frontal gyrus cbf": 4,
+        "Right OrIFG orbital part of the inferior frontal gyrus cbf": 3,
+        "CSF cbf": 4,
         "Right Calc calcarine cortex cbf": 5,
-        "Left SFG superior frontal gyrus td": 6,
-        "Left Cerebellum White Matter td": 7,
-        "Left PIns posterior insula td": 8,
+        "Left Putamen td": 6,
+        "Left SFG superior frontal gyrus td": 7,
+        "Right Cerebellum Exterior td": 8,
         "Right OFuG occipital fusiform gyrus td": 9,
-        "Left SMG supramarginal gyrus td": 10
+        "Left PIns posterior insula td": 10
     },
     "kendalls_tau2": null,
     "p_value2": null
